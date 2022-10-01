@@ -38,7 +38,6 @@ def main (main):
     print ("╢  \033[1;33mzouhairelkihel@gmail.com \033[1;31mقاﺮﺘﺧﻟ ضرﻌﻣ\033[1;31m╢")
     print ("╢  \033[1;33mzouhairettaher2006@gmail.com\033[1;32m نﻣآ\033[1;31m        ╢")
     print ("╢  \033[1;33mettaherzouhair@gmail.com\033[1;32m نﻣآ\033[1;31m        ╢")
-    print ("╢  \033[1;33mettaherzouhair2021@gmail.com \033[1;31mقاﺮﺘﺧﻟ ضرﻌﻣ\033[1;31m╢")
     print ("╢  \033[1;33mzouhairettaher2022@gmail.com\033[1;31m قاﺮﺘﺧﻟ ضرﻌﻣ\033[1;31m╢")
     print ("╢  \033[1;33mzouhairettaher2020@gmail.com\033[1;31m قاﺮﺘﺧﻟ ضرﻌﻣ\033[1;31m╢")
     print ("\033[1;31m╢ \033[1;33mzouhairettaher2021@gmail.com 🔓          ╢")
